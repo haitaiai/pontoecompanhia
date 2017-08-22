@@ -26,7 +26,7 @@
         <li style=" background-color: #76EEC6; margin-right: 3px; border-radius: 5px 5px 0px 0px;"><a href="servicos.php">Serviços</a></li>
         <li style=" background-color: #76EEC6; margin-right: 3px; border-radius: 5px 5px 0px 0px;"><a href="sobre.php">Quem somos</a></li>
         <li style=" background-color: #76EEC6; margin-right: 3px; border-radius: 5px 5px 0px 0px;"><a href="contato.php">Contato</a></li>
-        <li style=" background-color: #76EEC6; margin-right: 3px; border-radius: 5px 5px 0px 0px;"><a href="login.php">Login</a></li>
+        <li style=" background-color: #76EEC6; margin-right: 3px; border-radius: 5px 5px 0px 0px;"><a href="cadastro.php">Login</a></li>
         
       </ul>
     </div><!-- /.navbar-collapse -->
